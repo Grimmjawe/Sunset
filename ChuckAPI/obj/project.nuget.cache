@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yNGJRf81RCEMhq3FPqm67nTT7+Tgz6dI9SspZgmKCQubXnvezDHh+iSqzEhOLF1YLMLJcMERyfXEA6Ls0Hh63w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\julia.voronetskaja\\source\\repos\\ChuckAPI\\ChuckAPI\\ChuckAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\julia.voronetskaja\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
